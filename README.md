@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,python,java,mysql,git,github,vscode)](https://skillicons.dev)
 
-<br><br>
+<br>
 
 ⭐ Obrigada pela visita!
 
