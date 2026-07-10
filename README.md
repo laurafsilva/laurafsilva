@@ -12,7 +12,7 @@
 
 ### 🖥 Tecnologias:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,python,java,mysql,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,python,java,mysql,git,github,vscode,c,idea,linux,windows)](https://skillicons.dev)
 
 <br>
 
